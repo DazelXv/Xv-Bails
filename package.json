@@ -1,7 +1,7 @@
 {
-    "name": "@z4phdev/baileys",
+    "name": "@DazelXv/Xv-Bails",
     "version": "2.0.3",
-    "description": "WhatsApp API Modification By Z",
+    "description": "WhatsApp API Modification By Q",
     "keywords": [
         "whatsapp",
         "baileys",
@@ -11,9 +11,9 @@
         "botwa",
         "z4phdev"
     ],
-    "homepage": "https://github.com/z4phdev/baileys",
+    "homepage": "https://github.com/DazelXv/Xv-Bails",
     "repository": {
-        "url": "https://github.com/z4phdev/baileys"
+        "url": "https://github.com/DazelXv/Xv-Bails"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
